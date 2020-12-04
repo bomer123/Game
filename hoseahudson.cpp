@@ -71,7 +71,7 @@ int main()
 	{
 		cout << "nothing happens" << endl; 
 	}
-	if else(word3 == "no")
+	if (word3 == "no")
 	{
 		cout << "nothing happens your in the north" << endl; 
 	}
@@ -115,5 +115,3 @@ int main()
 }
 
 
-
-	
